@@ -1,0 +1,20 @@
+2023-05-04 14:11:27.571 [main] INFO  api.test.Usertest - ***********TC01 User Create************
+2023-05-04 14:11:30.444 [main] INFO  api.test.Usertest - ***********TC01 User Created..************
+2023-05-04 14:11:30.444 [main] INFO  api.test.Usertest - ***********TC02 User Data fetch************
+2023-05-04 14:11:31.989 [main] INFO  api.test.Usertest - ***********TC02 User Data fetched************
+2023-05-04 14:11:31.989 [main] INFO  api.test.Usertest - ***********TC03 Update user************
+2023-05-04 14:11:31.989 [main] INFO  api.test.Usertest - ***********TC03 Updated user************
+2023-05-04 14:11:33.261 [main] INFO  api.test.Usertest - ***********TC04 Delete user************
+2023-05-04 14:11:34.590 [main] INFO  api.test.Usertest - ***********TC04 Deleted user************
+2023-05-04 14:11:34.639 [main] INFO  api.test.Usertest2 - ***********TC01 User Create************
+2023-05-04 14:11:35.917 [main] INFO  api.test.Usertest2 - ***********TC01 User Created..************
+2023-05-04 14:11:35.932 [main] INFO  api.test.Usertest2 - ***********TC02 User Data fetch************
+2023-05-04 14:11:37.201 [main] INFO  api.test.Usertest2 - ***********TC02 User Data fetched************
+2023-05-04 14:11:37.201 [main] INFO  api.test.Usertest2 - ***********TC03 Update user************
+2023-05-04 14:11:37.201 [main] INFO  api.test.Usertest2 - ***********TC03 Updated user************
+2023-05-04 14:11:38.956 [main] INFO  api.test.Usertest2 - ***********TC04 Delete user************
+2023-05-04 14:11:40.216 [main] INFO  api.test.Usertest2 - ***********TC04 Deleted user************
+2023-05-04 14:11:40.232 [main] INFO  api.test.SchemaValidation - ***********TC01 User Create************
+2023-05-04 14:11:41.798 [main] INFO  api.test.SchemaValidation - ***********TC01 User Created..************
+2023-05-04 14:11:41.798 [main] INFO  api.test.SchemaValidation - ***********TC02 User Data fetch************
+2023-05-04 14:11:43.022 [main] INFO  api.test.SchemaValidation - ***********TC02 User Data fetched************
